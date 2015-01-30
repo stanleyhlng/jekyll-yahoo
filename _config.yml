@@ -12,3 +12,5 @@ github_username:  stanleyhlng
 
 # Build settings
 markdown: kramdown
+
+permalink: /:categories/:title
