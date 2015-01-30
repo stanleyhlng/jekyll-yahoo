@@ -9,7 +9,7 @@ Great Choice.
 
 Follow these easy steps to make Yahoo your search engine
 
-![walkthrough]({{ site.url }}assets/img/walkthrough.gif)
+![walkthrough]({{ site.baseurl }}/assets/img/walkthrough.gif)
 
 1. Click on the search icon in your search bar.  Then choose `"Change Search Settings"`.
 2. Under `"Default Search Engine"` select Yahoo from the droip down menu.  You're done!
