@@ -3,7 +3,6 @@ layout: page
 title:  "Make Yahoo my default search engine"
 date:   2015-01-29 23:11:03
 categories: homepage search
-permalink: /:categories/:title
 ---
 Great Choice.
 
